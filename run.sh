@@ -1,5 +1,5 @@
 #生成数据,需要提前把paper-xml文件夹放在data目录下
-python gen_data_wu.py
+python gen_data_2.py
 
 #模型1
 python train_1.py  --bert_dir sci_bert --model_name model_1.pt
