@@ -1,5 +1,5 @@
 transformers
-sklearn
+scikit-learn
 torch
 beautifulsoup4
 fuzzywuzzy
