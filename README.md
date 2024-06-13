@@ -1,6 +1,5 @@
-### 依赖：
--python3.8 
--transformers 
+### 依赖
+见requirements.txt 
 
 ### 数据处理
 下载对应的数据到data目录下
