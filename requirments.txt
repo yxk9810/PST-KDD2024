@@ -1,0 +1,5 @@
+transformers
+sklearn
+torch
+beautifulsoup4
+fuzzywuzzy
